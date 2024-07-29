@@ -1,14 +1,12 @@
-# StoreWeb
-- This app allows customers to buy products. (Apart from that, administrator can manage the list of products on the website.)
-# Author
-- Le Y Thien
-# Platform & Framework:
-Java
-Spring Boot+ Security
-# Libraries:
+## This capstone project focuses on developing an e-commerce website for selling watches. There also admin site for adminstrate the whole system.
 
-# How to install and run app:
-- Download file from github:
-```php
-git clone https://github.com/leythien2002/MPDS_StoreWeb
-```
+## Technologies Used
+- **Front-end:** HTML, CSS, JavaScript
+- **Back-end:** Spring Boot
+- **Database:** MySQL
+
+## Contributors
+- Nguyen Viet Anh
+- Le Y Thien
+
+
